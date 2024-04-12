@@ -1,0 +1,15 @@
+header {
+  img {
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+  }
+}
+main {
+  .alert {
+    position: fixed;
+    z-index: 100;
+    right: 38px;
+    top: 100px;
+  }
+}
