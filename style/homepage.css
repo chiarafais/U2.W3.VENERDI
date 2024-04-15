@@ -8,3 +8,14 @@ header {
     padding: 5px;
   }
 }
+.card-body {
+  height: 300px;
+  span {
+    font-size: 0.9em;
+  }
+}
+main {
+  button {
+    margin: 0px 10px 5px;
+  }
+}

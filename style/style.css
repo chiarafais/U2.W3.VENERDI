@@ -9,7 +9,10 @@ header {
   }
 }
 .card-body {
-  height: 220px;
+  height: 300px;
+  span {
+    font-size: 0.9em;
+  }
 }
 main {
   .alert {
